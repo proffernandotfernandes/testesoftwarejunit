@@ -1,0 +1,10 @@
+com\mycompany\testesoftware\model\Carro.class
+com\mycompany\testesoftware\model\Locacao.class
+com\mycompany\testesoftware\utils\DataUtils.class
+com\mycompany\testesoftware\exceptions\CarroNaoDisponivelException.class
+com\mycompany\testesoftware\model\Quadrado.class
+com\mycompany\testesoftware\exceptions\LocacaoException.class
+com\mycompany\testesoftware\Main.class
+com\mycompany\testesoftware\service\LocacaoService.class
+com\mycompany\testesoftware\model\MatrizDeInteiros.class
+com\mycompany\testesoftware\model\Cliente.class
